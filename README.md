@@ -1,1 +1,1 @@
-you're not a good person, you know that, right?
+you're not a good person. you know that, right?
