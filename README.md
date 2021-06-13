@@ -1,4 +1,2 @@
-you're not a good person. you know that, right?  
-  
-    
-good people don't end up here.
+website's currently under construction  
+if you want my temporary portfolio, check [art.crazyhairguy.com](https://art.crazyhairguy.com/)
