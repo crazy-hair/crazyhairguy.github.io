@@ -29,6 +29,7 @@ iframe {
 }
 
 .model {
+  background-color: #404040;
   border-style: solid;
   border-width: 1px;
   border-color: white;
