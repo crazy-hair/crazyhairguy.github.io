@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "title": "Propane Canister",
+      "description": "Propane Canister",
+      "preview": "models/personal/half-life/2/props_junk/propanecanister001a/propanecanister001a.png",
+      "model": "models/personal/half-life/2/props_junk/propanecanister001a/"
+    },
+    {
+      "title": "Propane Tank",
+      "description": "Propane Tank",
+      "preview": "models/personal/half-life/2/props_junk/propane_tank001a/propane_tank001a.png",
+      "model": "models/personal/half-life/2/props_junk/propane_tank001a/"
+    },
+    {
+      "title": "Propane Canister",
+      "description": "Propane Canister",
+      "preview": "models/personal/half-life/2/props_junk/propanecanister001b/propanecanister001b.png",
+      "model": "models/personal/half-life/2/props_junk/propanecanister001b/"
+    },
+    {
+      "title": "Blue Barrel",
+      "description": "Blue Barrel",
+      "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
+      "model": "models/personal/half-life/2/props_borealis/bluebarrel001/"
+    },
+    {
+      "title": "White DecaMove - Clean",
+      "description": "White DecaMove - Clean",
+      "preview": "models/megadodo/decamove/decamove_white_clean.png",
+      "model": "models/megadodo/decamove/white.html"
+    },
+    {
+      "title": "Linus DecaMove - Clean",
+      "description": "Linus DecaMove - Clean",
+      "preview": "models/megadodo/decamove/decamove_linus_clean.png",
+      "model": "models/megadodo/decamove/linus.html"
+    },
+    {
+      "title": "Rainbow DecaMove - Clean",
+      "description": "Rainbow DecaMove - Clean",
+      "preview": "models/megadodo/decamove/decamove_bow_clean.png",
+      "model": "models/megadodo/decamove/rainbow.html"
+    },
+    {
+      "title": "DecaMove - Clean",
+      "description": "DecaMove - Clean",
+      "preview": "models/megadodo/decamove/decamove_clean.png",
+      "model": "models/megadodo/decamove/black.html"
+    },
+    {
+      "title": "helmet",
+      "description": "helmet",
+      "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
+      "model": "models/doom/eternal/skins/red/helmet/"
+    },
+    {
+      "title": "Doom Slayer - Eternal",
+      "description": "Doom Slayer - Eternal",
+      "preview": "models/doom/eternal/characters/humans/doomslayer_cine_3p/doomslayer_cine_3p.png",
+      "model": "models/doom/eternal/characters/humans/doomslayer_cine_3p/"
+    },
+    {
+      "title": "Mancubus",
+      "description": "Mancubus",
+      "preview": "models/doom/eternal/monsters/mancubus/mancubus_low.png",
+      "model": "models/doom/eternal/monsters/mancubus/low.html"
+    },
+    {
+      "title": "Mancubus",
+      "description": "Mancubus",
+      "preview": "models/doom/eternal/monsters/mancubus/mancubus.png",
+      "model": "models/doom/eternal/monsters/mancubus/"
+    },
+    {
+      "title": "Engraved Boneworks M1911",
+      "description": "Engraved Boneworks M1911",
+      "preview": "models/boneworks/weapons/1911/1911.png",
+      "model": "models/boneworks/weapons/1911/"
+    },
+    {
+      "title": "Engraved Boneworks M1911",
+      "description": "Engraved Boneworks M1911",
+      "preview": "models/boneworks/weapons/1911/display.png",
+      "model": "models/boneworks/weapons/1911/display.html"
+    },
+    {
+      "title": "Combine SMG",
+      "description": "Combine SMG",
+      "preview": "models/half-life/alyx/weapons/vr_ipistol/vr_ipistol.png",
+      "model": "models/half-life/alyx/weapons/vr_ipistol/"
+    },
+    {
+      "title": "Headcrab",
+      "description": "Headcrab",
+      "preview": "models/half-life/alyx/creatures/headcrab_classic/headcrab_classic.png",
+      "model": "models/half-life/alyx/creatures/headcrab_classic/"
+    }
+  ]
+}
