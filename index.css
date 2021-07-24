@@ -29,12 +29,12 @@ iframe {
 }
 
 .model {
-  background-color: #2C2C2C;
+  background-color: #2D2D2D;
   border-style: solid;
   border-width: 1px;
   border-color: #525252;
   border-radius: 5px;
-  padding: 4px;
+  padding: 12px;
   margin: 4px;
 }
 
