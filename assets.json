@@ -1,6 +1,12 @@
 {
   "models": [
     {
+      "title": "Blue Barrel",
+      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
+      "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
+      "model": "models/personal/half-life/2/props_borealis/bluebarrel001/"
+    },
+    {
       "title": "Propane Canister",
       "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_junk/propanecanister001a/propanecanister001a.png",
@@ -19,10 +25,16 @@
       "model": "models/personal/half-life/2/props_junk/propane_tank001a/"
     },
     {
-      "title": "Blue Barrel",
-      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
-      "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
-      "model": "models/personal/half-life/2/props_borealis/bluebarrel001/"
+      "title": "Engraved Boneworks M1911",
+      "description": "Model belongs to Stress Level Zero, textures by me.",
+      "preview": "models/boneworks/weapons/1911/1911.png",
+      "model": "models/boneworks/weapons/1911/"
+    },
+    {
+      "title": "Engraved Boneworks M1911",
+      "description": "Model belongs to Stress Level Zero, textures by me",
+      "preview": "models/boneworks/weapons/1911/display.png",
+      "model": "models/boneworks/weapons/1911/display.html"
     },
     {
       "title": "DecaMove - Clean",
@@ -47,18 +59,6 @@
       "description": "Proof of concept Doomslayer skin.",
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
       "model": "models/doom/eternal/skins/red/helmet/"
-    },
-    {
-      "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me.",
-      "preview": "models/boneworks/weapons/1911/1911.png",
-      "model": "models/boneworks/weapons/1911/"
-    },
-    {
-      "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me",
-      "preview": "models/boneworks/weapons/1911/display.png",
-      "model": "models/boneworks/weapons/1911/display.html"
     }
   ]
 }
