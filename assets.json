@@ -49,12 +49,6 @@
       "model": "models/megadodo/decamove/white.html"
     },
     {
-      "title": "Rainbow DecaMove - Clean",
-      "description": "Model by MegaDodo, modified and textured by me.",
-      "preview": "models/megadodo/decamove/decamove_bow_clean.png",
-      "model": "models/megadodo/decamove/rainbow.html"
-    },
-    {
       "title": "helmet",
       "description": "Proof of concept Doomslayer skin.",
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
