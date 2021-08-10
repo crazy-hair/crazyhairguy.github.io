@@ -1,8 +1,10 @@
-try:
-    # Python 2
-    from SimpleHTTPServer import test, SimpleHTTPRequestHandler
-except ImportError:
-    # Python 3
-    from http.server import test, SimpleHTTPRequestHandler
+import http.server
+import socketserver
 
-test(SimpleHTTPRequestHandler)
+PORT = 8000
+
+Handler = http.server.SimpleHTTPRequestHandler
+
+with socketserver.TCPServer(("", PORT), Handler) as httpd:
+    print("serving at port", PORT)
+    httpd.serve_forever()
