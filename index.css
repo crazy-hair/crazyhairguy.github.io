@@ -1,11 +1,11 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: #030303;
+  color: #D7DADC;
   font-family: 'Lexend+Deca', sans-serif;
 }
 
 a {
-  color: white;
+  color: #D7DADC;
   text-decoration: none;
 }
 
@@ -29,10 +29,10 @@ iframe {
 }
 
 .model {
-  background-color: #2C2C2C;
+  background-color: #1A1A1B;
   border-style: solid;
   border-width: 1px;
-  border-color: #525252;
+  border-color: #343536;
   border-radius: 5px;
   padding: 12px;
   margin: 4px;
