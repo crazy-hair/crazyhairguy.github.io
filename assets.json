@@ -2,55 +2,55 @@
   "models": [
     {
       "title": "Blue Barrel",
-      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
+      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me. 2021.",
       "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
       "model": "models/personal/half-life/2/props_borealis/bluebarrel001/"
     },
     {
       "title": "Propane Canister",
-      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me.",
+      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me. 2018.",
       "preview": "models/personal/half-life/2/props_junk/propanecanister001a/propanecanister001a.png",
       "model": "models/personal/half-life/2/props_junk/propanecanister001a/"
     },
     {
       "title": "Propane Canister",
-      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me.",
+      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me. 2018.",
       "preview": "models/personal/half-life/2/props_junk/propanecanister001b/propanecanister001b.png",
       "model": "models/personal/half-life/2/props_junk/propanecanister001b/"
     },
     {
       "title": "Propane Tank",
-      "description": "Propane Tank, based upon the Half-Life 2 prop, and remade by me.",
+      "description": "Propane Tank, based upon the Half-Life 2 prop, and remade by me. 2018.",
       "preview": "models/personal/half-life/2/props_junk/propane_tank001a/propane_tank001a.png",
       "model": "models/personal/half-life/2/props_junk/propane_tank001a/"
     },
     {
       "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me.",
+      "description": "Model belongs to Stress Level Zero, textures by me. 2020.",
       "preview": "models/boneworks/weapons/1911/1911.png",
       "model": "models/boneworks/weapons/1911/"
     },
     {
       "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me",
+      "description": "Model belongs to Stress Level Zero, textures by me. 2020.",
       "preview": "models/boneworks/weapons/1911/display.png",
       "model": "models/boneworks/weapons/1911/display.html"
     },
     {
       "title": "DecaMove - Clean",
-      "description": "Model by MegaDodo, modified and textured by me.",
+      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty, 2021.",
       "preview": "models/megadodo/decamove/decamove_clean.png",
       "model": "models/megadodo/decamove/black.html"
     },
     {
       "title": "White DecaMove - Clean",
-      "description": "Model by MegaDodo, modified and textured by me.",
+      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty, 2021.",
       "preview": "models/megadodo/decamove/decamove_white_clean.png",
       "model": "models/megadodo/decamove/white.html"
     },
     {
       "title": "helmet",
-      "description": "Proof of concept Doomslayer skin.",
+      "description": "Proof of concept Doomslayer skin. Quick and dirty, 2021.",
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
       "model": "models/doom/eternal/skins/red/helmet/"
     }
