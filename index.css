@@ -1,11 +1,11 @@
 body {
-  background-color: black;
-  color: white;
-  font-family: 'Montserrat', sans-serif;
+  background-color: #030303;
+  color: #D7DADC;
+  font-family: 'Lexend+Deca', sans-serif;
 }
 
 a {
-  color: #a0a0ff;
+  color: #D7DADC;
   text-decoration: none;
 }
 
@@ -40,12 +40,13 @@ iframe {
 }
 
 .model {
+  background-color: #1A1A1B;
   border-style: solid;
   border-width: 1px;
-  border-color: white;
+  border-color: #343536;
   border-radius: 5px;
-  padding: 4px;
-  margin: 4px;
+  padding: 12px;
+  margin: 5px;
 }
 
 .preview {
