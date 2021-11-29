@@ -18,7 +18,11 @@ window.onload = async () => {
 
     // Date
     const date = document.createElement("p");
-    date.innerHTML = new Date(typeof(model.date) == "number" ? model.date * 1000 : model.date).toDateString();
+    if (typeof(model.date) == "number") {
+      date.innerHTML = new Date(model.date * 1000).toDateString();
+    } else {
+      date.innerHTML = model.date;
+    }
     date.classList.add("date");
     div.appendChild(date);
 
