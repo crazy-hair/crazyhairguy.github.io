@@ -2,63 +2,63 @@
   "models": [
     {
       "title": "Blue Barrel",
-      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me. 2021.",
+      "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
       "model": "models/personal/half-life/2/props_borealis/bluebarrel001/",
       "date": "Tris: 1,720 | Verts: 1,471 | 2021"
     },
     {
       "title": "Propane Canister",
-      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me. 2018.",
+      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_junk/propanecanister001a/propanecanister001a.png",
       "model": "models/personal/half-life/2/props_junk/propanecanister001a/",
       "date": "Tris: 1,160 | Verts: 1,204 | 2018"
     },
     {
       "title": "Propane Canister",
-      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me. 2018.",
+      "description": "Propane Canister, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_junk/propanecanister001b/propanecanister001b.png",
       "model": "models/personal/half-life/2/props_junk/propanecanister001b/",
       "date": "Tris: 1,160 | Verts: 1,204 | 2018"
     },
     {
       "title": "Propane Tank",
-      "description": "Propane Tank, based upon the Half-Life 2 prop, and remade by me. 2018.",
+      "description": "Propane Tank, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_junk/propane_tank001a/propane_tank001a.png",
       "model": "models/personal/half-life/2/props_junk/propane_tank001a/",
       "date": "Tris: 1,654 | Verts: 1,551 | 2018"
     },
     {
       "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me. 2020.",
+      "description": "Model belongs to Stress Level Zero, textures by me.",
       "preview": "models/boneworks/weapons/1911/1911.png",
       "model": "models/boneworks/weapons/1911/",
       "date": "2020"
     },
     {
       "title": "Engraved Boneworks M1911",
-      "description": "Model belongs to Stress Level Zero, textures by me. 2020.",
+      "description": "Model belongs to Stress Level Zero, textures by me.",
       "preview": "models/boneworks/weapons/1911/display.png",
       "model": "models/boneworks/weapons/1911/display.html",
       "date": "2020"
     },
     {
       "title": "DecaMove - Clean",
-      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty, 2021.",
+      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty.",
       "preview": "models/megadodo/decamove/decamove_clean.png",
       "model": "models/megadodo/decamove/black.html",
       "date": "2021"
     },
     {
       "title": "White DecaMove - Clean",
-      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty, 2021.",
+      "description": "Model by MegaDodo, modified and textured by me. Quick and dirty.",
       "preview": "models/megadodo/decamove/decamove_white_clean.png",
       "model": "models/megadodo/decamove/white.html",
       "date": "2021"
     },
     {
       "title": "helmet",
-      "description": "Proof of concept Doomslayer skin. Quick and dirty, 2021.",
+      "description": "Proof of concept Doomslayer skin. Quick and dirty.",
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
       "model": "models/doom/eternal/skins/red/helmet/",
       "date": "2021"
