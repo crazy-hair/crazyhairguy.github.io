@@ -1,6 +1,13 @@
 {
   "models": [
     {
+      "title": "Star Trek TNG Era Combadges",
+      "description": "A collection of Star Trek combadges, made with Blender, Marmoset Toolbag 3, and Substance Painter. Optimized for use in games like VRChat. Some badges have optional displacement maps to be used with parallax occlusion mapping (not shown here) for additional detail.",
+      "preview": "models/personal/star_trek/combadges/combadges.png",
+      "model": "models/personal/star_trek/combadges/",
+      "date": "2025"
+    },
+    {
       "title": "Blue Barrel",
       "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
@@ -62,13 +69,6 @@
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
       "model": "models/doom/eternal/skins/red/helmet/",
       "date": "2021"
-    },
-    {
-      "title": "Star Trek TNG Era Combadges",
-      "description": "A collection of Star Trek combadges, made with Blender, Marmoset Toolbag 3, and Substance Painter. Optimized for use in games like VRChat. Some badges have optional displacement maps to be used with parallax occlusion mapping (not shown here) for additional detail.",
-      "preview": "models/personal/star_trek/combadges/combadges.png",
-      "model": "models/personal/star_trek/combadges/",
-      "date": "2025"
     }
   ]
 }
