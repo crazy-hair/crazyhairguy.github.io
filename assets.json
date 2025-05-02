@@ -65,7 +65,7 @@
     },
     {
       "title": "helmet",
-      "description": "Proof of concept Doomslayer skin. Quick and dirty.",
+      "description": "Proof of concept Doomslayer skin. Quick and dirty. Model by id Software.",
       "preview": "models/doom/eternal/skins/red/helmet/helmet.png",
       "model": "models/doom/eternal/skins/red/helmet/",
       "date": "2021"
