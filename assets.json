@@ -8,6 +8,13 @@
       "date": "2025"
     },
     {
+      "title": "roachslimes SlimeVR Assembly Board",
+      "description": "A simple PCB for SlimeVR, based on the official schematic and designed by myself.",
+      "preview": "models/personal/slimevr/roachslimes.png",
+      "model": "models/personal/slimevr/",
+      "date": "2024"
+    },
+    {
       "title": "Blue Barrel",
       "description": "Blue Barrel, based upon the Half-Life 2 prop, and remade by me.",
       "preview": "models/personal/half-life/2/props_borealis/bluebarrel001/bluebarrel001.png",
